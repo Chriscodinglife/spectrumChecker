@@ -1,0 +1,49 @@
+time,server name,server id,latency,jitter,packet loss,download,upload,download bytes,upload bytes,share url
+00:00,Natural Wireless - New York,16888,12.059000000000001,5.335,0.0,13883619,2864956,133227584,25468872,"https://www.speedtest.net/result/c/cd642f70-5bd7-4695-987f-d67e908b232c
+"
+01:00,Natural Wireless - New York,16888,10.024,1.778,0.0,20573022,2742140,249613480,30927832,"https://www.speedtest.net/result/c/1e5c91d8-d65b-4afd-8223-afb791f38cdf
+"
+02:00,Natural Wireless - New York,16888,4.976,6.388,0.0,29948562,2900795,347992048,10776016,"https://www.speedtest.net/result/c/7a332ab0-4c3a-4f80-9ab7-0537a2aac233
+"
+03:00,Natural Wireless - New York,16888,10.251,2.278,0.0,24665277,2901220,332473832,10467592,"https://www.speedtest.net/result/c/6b8458da-02a5-432a-8799-a9b57c83c044
+"
+04:00,Natural Wireless - New York,16888,8.416,2.963,0.0,27871259,2919644,293125880,10605152,"https://www.speedtest.net/result/c/081a8e54-90ae-400d-adab-ba56bce38ca5
+"
+05:00,Natural Wireless - New York,16888,6.994,4.888,0.0,36783554,2918659,398452432,11090232,"https://www.speedtest.net/result/c/28f355b3-c221-4dfd-98ce-2a6c7341ea2d
+"
+06:00,Natural Wireless - New York,16888,9.214,3.377,0.0,10882975,2916377,129433824,10823800,"https://www.speedtest.net/result/c/a6ef5ea4-b4db-4b11-b296-4c84ff370277
+"
+07:00,Natural Wireless - New York,16888,10.133,4.42,0.0,10702198,2916425,70210872,10519720,"https://www.speedtest.net/result/c/5ab7e5df-30fd-47a7-8c8b-78447b327900
+"
+08:00,Natural Wireless - New York,16888,5.4910000000000005,4.862,0.0,15177808,2912032,211687464,10794840,"https://www.speedtest.net/result/c/94ba5c00-f518-4baf-b4f9-3e359295d5f6
+"
+09:00,Natural Wireless - New York,16888,4.388,4.704,0.420168,27458814,2918015,272685912,10513928,"https://www.speedtest.net/result/c/813883c5-1e7d-47db-a54e-0ce11f8d09b9
+"
+10:00,Natural Wireless - New York,16888,8.29,2.0780000000000003,0.0,28724022,2899946,425614984,11058376,"https://www.speedtest.net/result/c/2bf13766-c752-4dcf-8f3e-7716198d27a0
+"
+11:00,Natural Wireless - New York,16888,4.9460000000000015,3.808,0.0,17848931,2899260,276392792,10770224,"https://www.speedtest.net/result/c/92705500-dfc9-4d21-b9c7-63213d14c33d
+"
+12:00,Natural Wireless - New York,16888,13.237,30.002,0.0,5851290,2615959,74304120,35005400,"https://www.speedtest.net/result/c/43e4aa8a-bdcc-4f0f-989b-2781c6f85447
+"
+13:00,Natural Wireless - New York,16888,5.541,7.0829999999999975,0.0,13726440,2720696,179691008,9802960,"https://www.speedtest.net/result/c/c561f8e2-7c62-4b62-b8d8-509b5290ea35
+"
+14:00,Natural Wireless - New York,16888,9.958,4.334,0.0,28177999,2910330,287102200,10484968,"https://www.speedtest.net/result/c/e66def42-822a-4e2a-bdfb-faa26b1cdc50
+"
+15:00,Natural Wireless - New York,16888,11.794,3.544,0.0,10638646,2863131,165467304,10382160,"https://www.speedtest.net/result/c/45089f63-0aaa-45f3-91f1-1c536fbe3057
+"
+16:00,Natural Wireless - New York,16888,6.426,5.8770000000000024,0.0,9632331,2896745,123130680,11027968,"https://www.speedtest.net/result/c/efc93565-8e8a-413f-9615-a683054baa7f
+"
+17:00,Natural Wireless - New York,16888,9.481,3.2310000000000003,0.0,31549709,2913940,375114536,11392864,"https://www.speedtest.net/result/c/10dff5ae-2266-410e-bc0a-a3973902c652
+"
+18:00,Natural Wireless - New York,16888,9.977,1.73,0.0,8643634,2870710,96884232,10399872,"https://www.speedtest.net/result/c/4c5b2fec-ea4c-4641-a8c0-27c84cf13561
+"
+19:00,Natural Wireless - New York,16888,12.237,1.367,0.0,7715543,2903500,104376184,41389632,"https://www.speedtest.net/result/c/1aa35724-a1df-49e5-a352-adbba37a57a0
+"
+20:00,Natural Wireless - New York,16888,10.517999999999999,2.9019999999999997,0.0,14133003,2907548,192909800,10448768,"https://www.speedtest.net/result/c/8f7742d2-f084-4189-8546-1d0e28a5d5b0
+"
+21:00,Natural Wireless - New York,16888,11.706,6.56,0.0,20135417,2278874,249433928,26260928,"https://www.speedtest.net/result/c/223ff025-9385-4010-97be-73b50294c535
+"
+22:00,Natural Wireless - New York,16888,10.892999999999999,1.0390000000000001,0.0,35207340,2910356,361013912,10522616,"https://www.speedtest.net/result/c/beb1220e-80ef-4a3b-8ae7-33db5dc861e5
+"
+23:00,Natural Wireless - New York,16888,6.656,2.911,0.333333,23819225,2906569,288670384,11368248,"https://www.speedtest.net/result/c/5b86dbfe-0eda-4627-8071-38b030bbf6db
+"
