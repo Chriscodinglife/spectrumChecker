@@ -2,8 +2,6 @@
 
 # Spectrum Checker
 
-* auto-gen TOC:
-{:toc}
 
 ![title](images/readme/title.png)
 
